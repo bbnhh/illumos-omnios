@@ -637,7 +637,7 @@ extern "C" {
 #define	X86_VENDOR_IntelClone	1
 
 #define	X86_VENDOR_AMD		2
-#define	X86_VENDORSTR_AMD	"AuthenticAMD"
+#define	X86_VENDORSTR_AMD	"HygonGenuine"
 
 #define	X86_VENDOR_Cyrix	3
 #define	X86_VENDORSTR_CYRIX	"CyrixInstead"
